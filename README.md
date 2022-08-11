@@ -1,4 +1,4 @@
-> Nick : Meruho
+> Nick : meruho
 
 > Job : Developer & Teacher
 
